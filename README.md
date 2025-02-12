@@ -3,6 +3,8 @@
 ## Overview
 This Chrome extension automatically clears browsing history at a user-defined interval. Users can select the interval from the popup UI and manually clear history as well.
 
+> **Note:** This extension is meant to be used locally. You can customize it to your needs by modifying the source code.
+
 ## Features
 - Automatically clears browsing history at a set interval
 - Allows users to choose the interval (1 min, 5 min, 30 min, 1 hour, 2 hours, 4 hours)
@@ -12,7 +14,7 @@ This Chrome extension automatically clears browsing history at a user-defined in
 ## Installation Guide
 ### 1. Download or Clone the Repository
 ```sh
-  git clone https://github.com/your-repo/auto-clear-history.git
+  git clone https://github.com/111-vk/ForgetMe.git
 ```
 
 ### 2. Open Chrome Extensions Page
@@ -53,7 +55,7 @@ Brave is based on Chromium, so the installation process is the same as Chrome. T
 - Update `background.js` to add additional clearing options (cookies, cache, etc.)
 
 ## Support
-For any issues, contact [kv2352005@gmail.com]() or create an issue on GitHub.
+For any issues, contact [kv2352005@gmail.com](mailto:your-email@example.com) or create an issue on GitHub.
 
 ## License
 [MIT License](LICENSE)

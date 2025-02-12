@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Auto Clear History</title>
+  <link rel="stylesheet" href="popup.css">
+  <script src="popup.js" defer></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+  <div class="container">
+    <button id="toggleDarkMode"><i class="fa-regular fa-moon"></i></button>
+    <div class="dp"><img src="src/new_dp.jpeg" alt=""></div>
+    <h1>Auto Clear History</h1>
+    <label for="interval">Clear history every:</label>
+    <select id="interval">
+      <option value="1">1 minute</option>
+      <option value="5">5 minutes</option>
+      <option value="30">30 minutes</option>
+      <option value="60">1 hour</option>
+      <option value="120" selected>2 hours</option>
+      <option value="240">4 hours</option>
+    </select>
+    <button id="saveSettings">Save</button>
+    <button id="clearNow">Clear History Now</button>
+    <p id="nextRun" style="margin-top: 10px; font-size: 14px; color: #555;"></p>
+    <a href="https://github.com/111-vk/ForgetMe" target="_blank">help</a>
+  </div>
+</body>
+</html>

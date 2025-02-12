@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "ForgetMe",
+  "version": "1.0",
+  "description": "Clears browsing history at a user-defined interval.",
+  "permissions": [
+    "browsingData",
+    "alarms",
+    "storage"
+  ],
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
