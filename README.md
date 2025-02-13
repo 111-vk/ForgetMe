@@ -42,7 +42,7 @@ Brave is based on Chromium, so the installation process is the same as Chrome. T
 
 ## Files and Structure
 ```
-/auto-clear-history
+/ForgetMe
 │── manifest.json     # Extension metadata
 │── background.js     # Handles scheduled history clearing
 │── popup.html        # UI for selecting interval and manual clearing
