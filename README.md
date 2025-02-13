@@ -57,6 +57,6 @@ Brave is based on Chromium, so the installation process is the same as Chrome. T
 ## Support
 For any issues, contact [kv2352005@gmail.com](mailto:your-email@example.com) or create an issue on GitHub.
 
-## License
-[MIT License](LICENSE)
 
+## Preview
+![Extension Preview](src/preview.png)
