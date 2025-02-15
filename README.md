@@ -64,5 +64,8 @@ For any issues, contact [kv2352005@gmail.com](mailto:your-email@example.com) or 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
+
 ## Preview
-![Extension Preview](src/2025-02-15_18-37.png)
+<p align="center">
+  <img src="src/2025-02-15_18-37.png" alt="Extension Preview">
+</p>
