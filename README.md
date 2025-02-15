@@ -59,4 +59,4 @@ For any issues, contact [kv2352005@gmail.com](mailto:your-email@example.com) or 
 
 
 ## Preview
-![Extension Preview](src/preview.jpeg)
+![Extension Preview](src/2025-02-15_18-37.png)

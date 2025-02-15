@@ -25,3 +25,4 @@ chrome.storage.onChanged.addListener((changes, areaName) => {
     });
   }
 });
+// I did not created this for that reason :)
