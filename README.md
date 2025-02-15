@@ -32,7 +32,9 @@ Brave is based on Chromium, so the installation process is the same as Chrome. T
 2. Enable **Developer mode** (top right corner)
 3. Click **Load unpacked**
 4. Select the folder where the extension files are stored
-5. The extension will now appear in the list and work as expected
+5. The extension will now appear in the list and work as expecteds
+
+>**Note:** Pin this extension for better functionality by clicking the puzzle icon 🔧 in the browser toolbar and selecting the pin 📌 next to the extension name.
 
 ## Usage
 1. Click the extension icon in the toolbar
