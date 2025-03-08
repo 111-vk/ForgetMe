@@ -27,10 +27,10 @@ document.addEventListener("DOMContentLoaded", () => {
         updateNextRunTime();
       });
     });
-    //
-    //document.getElementById("clearNow").addEventListener("click", () => {
-      //chrome.browsingData.remove({ since: 0 }, { histo ry: true }, () => {
-        //alert("Browsing history cleared.");
+    
+    document.getElementById("clearNow").addEventListener("click", () => {
+      chrome.browsingData.remove({ since: 0 }, { history: true }, () => {
+        alert("Browsing history cleared.");
     
       });
     });
@@ -43,3 +43,5 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   });
   
+
+// I did not created this for that reason :)
