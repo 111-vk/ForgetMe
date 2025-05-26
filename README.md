@@ -69,5 +69,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Preview
 <p align="center">
-  <img src="src/2025-02-15_18-37.png" alt="Extension Preview">
+  <img src="src/iamge.png" alt="Extension Preview">
 </p>
